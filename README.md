@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<meta charset="utf-8">
-		<title>北大附中临时网址导航</title>
-		<style type="text/css">
-		</style>
-	</head>
+	
+
 	<body>
 		<br/>
 		<h1 align="center">北大附中网页导航站</h1>
