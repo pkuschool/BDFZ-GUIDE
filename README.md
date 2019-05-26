@@ -1,8 +1,5 @@
-<!DOCTYPE html>
 <html>
-	
-
-	<body>
+		<body>
 		<br/>
 		<h1 align="center">北大附中网页导航站</h1>
 		<br/>
@@ -31,7 +28,4 @@
 	</body>
 </html>
 
-# BDFZ-GUIDE
-北大附中临时导航站 by subit
-反正目前就这一个略略略
-好吧确实菜的一批，10min出还能要求什么不是
+
