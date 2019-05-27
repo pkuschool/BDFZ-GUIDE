@@ -1,31 +1,27 @@
-<html>
-		<body>
-		<br/>
-		<h1 align="center">北大附中网页导航站</h1>
-		<br/>
-		<hr/>
-		<ol><font color="orange" size="5">通知：</font>
-			<li>在校师生可通过局域网（校内网络）访问学校官网(http://www.pkuschool.edu.cn/)。使用外网无法访问学校官网。</li>
-			<li>学校官网关闭期间不影响校外网络对学校系统的访问。</li>
-			<li>使用期间如出现访问问题，可联系信息中心老师：<br/>
-			金严：jinyan@pkuschool.edu.cn <br/>
-			刘珺：liujun@pkuschool.edu.cn </li>
-		</ol>
-		<hr/>
-		<h3>以下是访问链接</h3>
-		<ul>
-			<li><a href="http://bdfz-cas.pkuschool.edu.cn/">门户登录（单点登录）</a></li>
-			<li><a href="http://portal.pkuschool.edu.cn/">内网登录</a></li>
-			<li><a href="http://mail.pkuschool.edu.cn/">邮箱登录</a></li>
-			<li><a href="http://oa.pkuschool.edu.cn/">OA登录</a></li>
-			<li><a href="http://www.office.com/">office 365登录</a></li>
-			<li><a href="http://course.pkuschool.edu.cn/">清华教育平台</a></li>
-			<li><a href="http://bdfz-cas.pkuschool.edu.cn/">希悦（通过门户登录）</a></li>
-			<li><a href="http://cms.pkuschool.edu.cn/cz/">初中龙创登录</a></li>
-		</ul>
-		<hr/>
-		<p align="center"><font color="grey" size="2">针对此网页的反馈：shenjunyang@i.pkuschool.edu.cn</p>
-	</body>
-</html>
+---
 
+permalink: index.html
 
+---
+
+> 通知：
+> 在校师生可通过局域网（校内网络）访问学校官网(http://www.pkuschool.edu.cn/)。使用外网无法访问学校官网。
+> 学校官网关闭期间不影响校外网络对学校系统的访问。
+> 使用期间如出现访问问题，可联系信息中心老师：
+> 金严：jinyan@pkuschool.edu.cn 
+> 刘珺：liujun@pkuschool.edu.cn
+
+---
+
+- [单点登录](http://bdfz-cas.pkuschool.edu.cn/)
+- [内网](http://portal.pkuschool.edu.cn/)
+- [邮箱](http://mail.pkuschool.edu.cn)
+- [OA](http://oa.pkuschool.edu.cn/)
+- [Office 365](https://portal.office.com)
+- [清华教育平台](http://course.pkuschool.edu.cn/)
+- [高中希悦](http://bdfz.seiue.com)
+- [初中希悦](https://passport.seiue.com/login?school_id=62&chosen=1&force=1)
+- [初中龙创登录](http://cms.pkuschool.edu.cn/cz/)
+
+		
+针对此网页的反馈：<shenjunyang@i.pkuschool.edu.cn>, <liuyuchen1@i.pkuschool.edu.cn>
