@@ -1,6 +1,8 @@
 ---
 
 permalink: index.html
+title: 主页
+description: 官网维护期间的临时导航站
 
 ---
 
