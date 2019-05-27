@@ -8,12 +8,13 @@ description: 官网维护期间的临时导航站
 
 > 通知：
 >
-> 在校师生可通过局域网（校内网络）访问[学校官网](http://www.pkuschool.edu.cn/)。使用外网无法访问学校官网。
-> 学校官网关闭期间不影响校外网络对学校系统的访问。
+> 在校师生可通过**校内网络**访问[学校官网](http://www.pkuschool.edu.cn/)。使用外网**无法**访问学校官网。
+> 学校官网关闭期间**不影响**校外网络对学校系统的访问。
 >
 > 使用期间如出现访问问题，可联系信息中心老师：
 >
-> 金严：<jinyan@pkuschool.edu.cn>, 刘珺：<liujun@pkuschool.edu.cn>
+> - 金严：<jinyan@pkuschool.edu.cn> 186-1845-9215
+> - 刘珺：<liujun@pkuschool.edu.cn> 136-0106-7996
 
 ---
 
