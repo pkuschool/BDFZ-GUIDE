@@ -1,6 +1,16 @@
 5.26
 First version
 added:
-*name
-*notice
-*url link
+1. name
+2. notice
+3. url link
+
+5.27
+added:
+1. New Theme Color: "goldenrod"
+2. New footer
+Improved:
+1. More distinct font
+2. Improved UI design
+3. Simplified notices, made it more readable
+=_=
