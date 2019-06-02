@@ -27,6 +27,7 @@ description: 官网维护期间的临时导航站
 - [高中希悦](http://bdfz.seiue.com)
 - [初中希悦](https://passport.seiue.com/login?school_id=62&chosen=1&force=1)
 - [初中龙创登录](http://cms.pkuschool.edu.cn/cz/)
+- ~~[学生手册](http://pkuschool.edu.cn/shouce/)~~ 学生手册受官网影响，也无法访问
 
 		
 针对此网页的反馈：<shenjunyang@i.pkuschool.edu.cn>, <liuyuchen1@i.pkuschool.edu.cn>
