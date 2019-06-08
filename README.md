@@ -29,5 +29,8 @@ description: 官网维护期间的临时导航站
 - [初中龙创登录](http://cms.pkuschool.edu.cn/cz/)
 - ~~[学生手册](http://www.pkuschool.edu.cn/shouce/xiaoli_01.html)~~ 学生手册受官网影响，也无法访问
 
-		
+本学段校历：
+![18-19学年第四学段校历](xiaoli1804.png)
+
+
 针对此网页的反馈：<shenjunyang@i.pkuschool.edu.cn>, <liuyuchen1@i.pkuschool.edu.cn>
