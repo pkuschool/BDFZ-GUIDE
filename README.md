@@ -3,6 +3,7 @@
 permalink: index.html
 title: 主页
 description: 官网维护期间的临时导航站
+state: 网站已经被禁用
 
 ---
 
