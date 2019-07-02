@@ -27,7 +27,7 @@ description: 官网维护期间的临时导航站
 - [高中希悦](http://bdfz.seiue.com)
 - [初中希悦](https://passport.seiue.com/login?school_id=62&chosen=1&force=1)
 - [初中龙创登录](http://cms.pkuschool.edu.cn/cz/)
-- ~~[学生手册](http://www.pkuschool.edu.cn/shouce/xiaoli_01.html)~~ 学生手册受官网影响，也无法访问
+- [学生手册](http://www.pkuschool.edu.cn/shouce/xiaoli_01.html)
 
 本学段校历：
 ![18-19学年第四学段校历](xiaoli1804.png)
